@@ -14,8 +14,6 @@ const utilities = require("./utilities/")
 const session = require("express-session")
 const pool = require("./database/")
 const generalRoute = require("./routes/generalRoute")
-//Attempting to add SWE
-const sweRoute = require("./routes/sweRoute")
 // const contactRoute = require("./routes/messageRoute")
 // const accountRoute = require("./routes/accountRoute")
 // const menuRoute = require("./routes/menuRoute")
